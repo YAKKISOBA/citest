@@ -1,2 +1,2 @@
 # citest
-PHP CodeIgniter FRAMEWORK TEST
+PHP CodeIgniter2.0 Framework Test
